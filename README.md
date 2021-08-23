@@ -1,2 +1,2 @@
-# EmployeeFrontend
+# React Resume
 React Learning 
