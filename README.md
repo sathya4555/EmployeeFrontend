@@ -1,2 +1,2 @@
 # EmployeeFrontend
-Angular Learning 
+React Learning 
